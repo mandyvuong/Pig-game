@@ -11,13 +11,13 @@ There will be two players in this game. At the start of the game Player 1 will b
 ## Installation
 
 ```
-git clone
+git clone https://github.com/mandyvuong/Pig-game.git
 ```
 
 ## How to use
 
 ```
-cd
+cd Pig-game
 ```
 
 If npm installed, follow the following command and play the game in the browser
